@@ -1,0 +1,8 @@
+bin/
+.idea/
+.config/
+.vs/
+obj/
+
+Authentication/AuthenticationManager/appsettings.Development.json
+Authentication/AuthenticationManager/appsettings.json
